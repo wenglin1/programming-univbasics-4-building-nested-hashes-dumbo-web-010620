@@ -22,7 +22,8 @@ def monopoly_with_third_tier
 				:reading_railroad => {},
 				:learning_railroad => {},
 				:b_and_o_railroad => {},
-			 	:shortline => {}}
+			 	:shortline => {}
+			}				
 		}
 	}# When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
